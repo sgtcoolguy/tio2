@@ -59,7 +59,7 @@ describe("Ti.UI",function(){
 
 ```bash
 # run the built-in example
-tio2 ./example
+tio2 --platform ios ./example
 
 # let's launch and run once
 tio2 --platform ios /path/to/project
