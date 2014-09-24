@@ -4,7 +4,7 @@ var should = require('should'),
 	$timer = require('com.appcelerator.timer'),
 	$results = [];
 
-<%- tests %>
+'tests go here';
 
 // add a special mocha reporter that will time each test run using
 // our microsecond timer
